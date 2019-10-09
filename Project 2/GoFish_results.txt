@@ -1,0 +1,261 @@
+~*~*~*~* Let's play Go Fish! *~*~*~*~
+
+Player 1 books the 2
+Player 2 books the 4
+
+Player 1 asks - Do you have a Ace
+Player 2 says - Yes, I have a Ace
+Player 1 books the Ace
+
+Player 1 asks - Do you have a 5
+Player 2 says - Yes, I have a 5
+Player 1 books the 5
+
+Player 1 asks - Do you have a 9
+Player 2 says - Yes, I have a 9
+Player 1 books the 9
+
+Player 1 asks - Do you have a 7
+Player 2 says - Yes, I have a 7
+Player 1 books the 7
+
+Player 1 asks - Do you have a 8
+Player 2 says - Go Fish!
+Player 1 draws 6 of Spades
+
+Player 2 asks - Do you have a 6
+Player 1 says - Yes, I have a 6
+Player 2 books the 6
+
+Player 2's hand is empty!
+Player 2 draws Jack of Spades
+
+Player 1 asks - Do you have a 8
+Player 2 says - Go Fish!
+Player 1 draws 9 of Spades
+
+Player 2 asks - Do you have a Jack
+Player 1 says - Go Fish!
+Player 2 draws 10 of Diamonds
+
+Player 1 asks - Do you have a 9
+Player 2 says - Go Fish!
+Player 1 draws 4 of Clubs
+
+Player 2 asks - Do you have a 10
+Player 1 says - Go Fish!
+Player 2 draws 8 of Hearts
+
+Player 1 asks - Do you have a 4
+Player 2 says - Go Fish!
+Player 1 draws 3 of Clubs
+
+Player 2 asks - Do you have a 8
+Player 1 says - Yes, I have a 8
+Player 2 books the 8
+
+Player 2 asks - Do you have a 10
+Player 1 says - Go Fish!
+Player 2 draws Queen of Clubs
+
+Player 1 asks - Do you have a 3
+Player 2 says - Go Fish!
+Player 1 draws Ace of Diamonds
+
+Player 2 asks - Do you have a Queen
+Player 1 says - Go Fish!
+Player 2 draws Ace of Hearts
+
+Player 1 asks - Do you have a Ace
+Player 2 says - Yes, I have a Ace
+Player 1 books the Ace
+
+Player 1 asks - Do you have a 3
+Player 2 says - Go Fish!
+Player 1 draws King of Spades
+
+Player 2 asks - Do you have a Queen
+Player 1 says - Go Fish!
+Player 2 draws 3 of Spades
+
+Player 1 asks - Do you have a King
+Player 2 says - Go Fish!
+Player 1 draws 8 of Clubs
+
+Player 2 asks - Do you have a 3
+Player 1 says - Yes, I have a 3
+Player 2 books the 3
+
+Player 2 asks - Do you have a Queen
+Player 1 says - Go Fish!
+Player 2 draws 10 of Spades
+Player 2 books the 10
+
+Player 2 asks - Do you have a Queen
+Player 1 says - Go Fish!
+Player 2 draws Queen of Diamonds
+Player 2 books the Queen
+
+Player 2 asks - Do you have a Jack
+Player 1 says - Go Fish!
+Player 2 draws Queen of Spades
+
+Player 1 asks - Do you have a 8
+Player 2 says - Go Fish!
+Player 1 draws 10 of Hearts
+
+Player 2 asks - Do you have a Queen
+Player 1 says - Go Fish!
+Player 2 draws 6 of Clubs
+
+Player 1 asks - Do you have a 10
+Player 2 says - Go Fish!
+Player 1 draws King of Clubs
+Player 1 books the King
+
+Player 1 asks - Do you have a 10
+Player 2 says - Go Fish!
+Player 1 draws 9 of Clubs
+Player 1 books the 9
+
+Player 1 asks - Do you have a 10
+Player 2 says - Go Fish!
+Player 1 draws Jack of Hearts
+
+Player 2 asks - Do you have a 6
+Player 1 says - Go Fish!
+Player 2 draws 6 of Diamonds
+Player 2 books the 6
+
+Player 2 asks - Do you have a Queen
+Player 1 says - Go Fish!
+Player 2 draws 2 of Diamonds
+
+Player 1 asks - Do you have a Jack
+Player 2 says - Yes, I have a Jack
+Player 1 books the Jack
+
+Player 1 asks - Do you have a 10
+Player 2 says - Go Fish!
+Player 1 draws 7 of Hearts
+
+Player 2 asks - Do you have a 2
+Player 1 says - Go Fish!
+Player 2 draws Jack of Clubs
+
+Player 1 asks - Do you have a 7
+Player 2 says - Go Fish!
+Player 1 draws 7 of Diamonds
+Player 1 books the 7
+
+Player 1 asks - Do you have a 10
+Player 2 says - Go Fish!
+Player 1 draws 3 of Hearts
+
+Player 2 asks - Do you have a Jack
+Player 1 says - Go Fish!
+Player 2 draws 8 of Diamonds
+
+Player 1 asks - Do you have a 3
+Player 2 says - Go Fish!
+Player 1 draws 5 of Spades
+
+Player 2 asks - Do you have a 8
+Player 1 says - Yes, I have a 8
+Player 2 books the 8
+
+Player 2 asks - Do you have a Jack
+Player 1 says - Go Fish!
+Player 2 draws 10 of Clubs
+
+Player 1 asks - Do you have a 5
+Player 2 says - Go Fish!
+Player 1 draws 4 of Spades
+Player 1 books the 4
+
+Player 1 asks - Do you have a 5
+Player 2 says - Go Fish!
+Player 1 draws 2 of Hearts
+
+Player 2 asks - Do you have a 10
+Player 1 says - Yes, I have a 10
+Player 2 books the 10
+
+Player 2 asks - Do you have a Jack
+Player 1 says - Go Fish!
+Player 2 draws 5 of Diamonds
+
+Player 1 asks - Do you have a 2
+Player 2 says - Yes, I have a 2
+Player 1 books the 2
+
+Player 1 asks - Do you have a 5
+Player 2 says - Yes, I have a 5
+Player 1 books the 5
+
+Player 1 asks - Do you have a 3
+Player 2 says - Go Fish!
+Player 1 draws King of Hearts
+
+Player 2 asks - Do you have a Jack
+Player 1 says - Go Fish!
+Player 2 draws 3 of Diamonds
+
+Player 1 asks - Do you have a King
+Player 2 says - Go Fish!
+Player 1 draws Jack of Diamonds
+
+Player 2 asks - Do you have a 3
+Player 1 says - Yes, I have a 3
+Player 2 books the 3
+
+Player 2 asks - Do you have a Jack
+Player 1 says - Yes, I have a Jack
+Player 2 books the Jack
+
+Player 2 asks - Do you have a Queen
+Player 1 says - Go Fish!
+Player 2 draws Queen of Hearts
+Player 2 books the Queen
+
+Player 2's hand is empty!
+Player 2 draws King of Diamonds
+
+Player 1 asks - Do you have a King
+Player 2 says - Yes, I have a King
+Player 1 books the King
+
+
+
+Player 1 wins with 14 pairs:
+
+Player 1's Books:
+2 of Spades and 2 of Clubs
+Ace of Spades and Ace of Clubs
+5 of Clubs and 5 of Hearts
+9 of Hearts and 9 of Diamonds
+7 of Clubs and 7 of Spades
+Ace of Diamonds and Ace of Hearts
+King of Spades and King of Clubs
+9 of Spades and 9 of Clubs
+Jack of Hearts and Jack of Spades
+7 of Hearts and 7 of Diamonds
+4 of Clubs and 4 of Spades
+2 of Hearts and 2 of Diamonds
+5 of Spades and 5 of Diamonds
+King of Hearts and King of Diamonds
+
+Player 2's Books:
+4 of Hearts and 4 of Diamonds
+6 of Hearts and 6 of Spades
+8 of Hearts and 8 of Spades
+3 of Spades and 3 of Clubs
+10 of Diamonds and 10 of Spades
+Queen of Clubs and Queen of Diamonds
+6 of Clubs and 6 of Diamonds
+8 of Diamonds and 8 of Clubs
+10 of Clubs and 10 of Hearts
+3 of Diamonds and 3 of Hearts
+Jack of Clubs and Jack of Diamonds
+Queen of Spades and Queen of Hearts
+
