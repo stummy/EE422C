@@ -1,12 +1,6 @@
 # Cheaters
 
-## About
-
 This is a simple Java program that compares similarites between files by comparing chunks of strings.
-
-
-## How it Works
-
 This program works by reading line by line a text file and appending each line to
 create a really really long string. Then it breaks up the string into chunks of sizes
 determined by the user input. Then those chunks of strings are put into a set (encompassing
